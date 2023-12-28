@@ -1,3 +1,3 @@
 # Rizky
 
-Personal informations
+Personal information
