@@ -1,4 +1,4 @@
 # Demo
 
-Testing how to use Git and GitHub wish me luck bro
+Testing how to use Git and GitHub wish me luck
 
